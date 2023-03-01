@@ -6,7 +6,7 @@
 .main{
    width: 800px;
    min-height: 600px;
-   /*background: black;*/
+   background: black;
 }
 
 .m-header{
@@ -26,7 +26,7 @@
 
 .m-nav{
     width: 190px;
-    min-height: 500px;
+    min-height: 490px;
     background: #FBD700;
     box-sizing: border-box;
     padding: 20px;
@@ -54,7 +54,7 @@
 
 .m-footer{
     width: 600px;
-    min-height: 90px;
+    min-height: 80px;
     background:#FBD700;
     box-sizing: border-box;
     margin: 0px 0px 15px 10px;
